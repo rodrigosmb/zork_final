@@ -1,10 +1,10 @@
-#Zork-Inspired Text-Based Adventure Game
+# Zork-Inspired Text-Based Adventure Game
 
-#Overview
+# Overview
 
 This project is a text-based adventure game inspired by the classic Zork series. The game is set in a mysterious castle where strange events have been unfolding since the arrival of a mysterious guest, Wildrin. Players take on the role of one of several characters, each with unique abilities and perspectives, to uncover the dark secrets of the castle and restore peace.
 
-#The game features:
+# The game features:
 
     Multiple playable characters with unique abilities and storylines.
 
@@ -16,11 +16,11 @@ This project is a text-based adventure game inspired by the classic Zork series.
 
     Exploration of various locations within the castle, each with its own challenges and secrets.
 
-#Characters
+# Characters
 
 Players can choose from the following characters:
 
-    ##King:
+    ## King:
 
         Physical Health: 100
 
@@ -30,7 +30,7 @@ Players can choose from the following characters:
 
         Starting Point: Royal Bedchamber
 
-    ##Princess:
+    ## Princess:
 
         Physical Health: 40
 
@@ -40,7 +40,7 @@ Players can choose from the following characters:
 
         Starting Point: Closet
 
-    ##Steward:
+    ## Steward:
 
         Physical Health: 80
 
@@ -50,7 +50,7 @@ Players can choose from the following characters:
 
         Starting Point: Stables
 
-    ##Ghost:
+    ## Ghost:
 
         Physical Health: 10,000,000 (effectively immortal)
 
@@ -60,7 +60,7 @@ Players can choose from the following characters:
 
         Starting Point: Attic
 
-    ##Mage:
+    ## Mage:
 
         Physical Health: 30
 
@@ -70,8 +70,8 @@ Players can choose from the following characters:
 
         Starting Point: Library
 
-#Gameplay Mechanics
-##Exploration
+# Gameplay Mechanics
+## Exploration
 
 Players can explore various locations within the castle, including:
 
@@ -88,7 +88,7 @@ Players can explore various locations within the castle, including:
     Basement
 
 Each location has unique interactions, puzzles, and potential dangers.
-##Combat
+## Combat
 
 Combat is turn-based and involves choosing between attacking, dodging, or attempting to escape. Different enemies require different strategies:
 
@@ -96,7 +96,7 @@ Combat is turn-based and involves choosing between attacking, dodging, or attemp
 
     Mad Cook: Found in the Kitchen.
 
-##Puzzles
+## Puzzles
 
 The game features several puzzles, particularly in the Basement, which must be solved to progress. Puzzles include riddles, anagrams, and pattern recognition.
 Dialogue
@@ -105,7 +105,7 @@ Players can interact with other characters through dialogue, which can provide c
 Time Management
 
 Time passes as players perform actions, and certain events are tied to the time of day. For example, the Queen becomes more dangerous at night.
-#How to Play
+# How to Play
 
     Choose a Character: At the start of the game, select one of the five available characters.
 
@@ -119,7 +119,7 @@ Time passes as players perform actions, and certain events are tied to the time 
 
     Restore Peace: Uncover the dark secrets of the castle and defeat the evil that has taken hold.
 
-#Code Structure
+# Code Structure
 
 The project is organized into several Swift files, each representing a different aspect of the game:
 
@@ -131,7 +131,7 @@ The project is organized into several Swift files, each representing a different
 
     Main Game Loop: main.swift
 
-#Requirements
+# Requirements
 
     Swift: The game is written in Swift and requires a Swift e
 
@@ -139,7 +139,7 @@ The project is organized into several Swift files, each representing a different
 
     Command Line Interface: The game is played through the command line, with text-based input and output.
 
-#Running the Game
+# Running the Game
 
 To run the game, simply compile and execute the main.swift file in a Swift environment. Follow the on-screen instructions to choose a character and begin your adventure.
 Conclusion
