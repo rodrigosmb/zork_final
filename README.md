@@ -102,7 +102,8 @@ The game features several puzzles, particularly in the Basement, which must be s
 Dialogue
 
 Players can interact with other characters through dialogue, which can provide clues, assistance, or deepen the story. Each character has unique dialogue options based on their relationships with others.
-Time Management
+
+## Time Management
 
 Time passes as players perform actions, and certain events are tied to the time of day. For example, the Queen becomes more dangerous at night.
 # How to Play
