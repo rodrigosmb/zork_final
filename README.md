@@ -143,6 +143,7 @@ The project is organized into several Swift files, each representing a different
 # Running the Game
 
 To run the game, simply compile and execute the main.swift file in a Swift environment. Follow the on-screen instructions to choose a character and begin your adventure.
-Conclusion
+
+# Conclusion
 
 This text-based adventure game offers a rich narrative experience with multiple characters, challenging puzzles, and a dynamic world. Players must use their wits and the unique abilities of their chosen character to uncover the secrets of the castle and restore peace.
